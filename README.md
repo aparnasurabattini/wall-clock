@@ -1,3 +1,3 @@
 # wall-clock
 
-visit https://aparnasurabattini.github.io/wall-clock/ for my university website
+visit https://aparnasurabattini.github.io/wall-clock/ to view wall clock app.
